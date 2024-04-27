@@ -1,6 +1,17 @@
-#h{
+#l1{
     text-align:center;
-    background-color:black;
-    color:aqua;
-    border-radius:25px;
+    background-color:aqua;
+    font-size:30px;
+    border-color:green;
+    border-radius:15px;
+    border:solid 10px;
+}
+#f1{
+font-size:20px;
+border-color:green;
+border-radius:15px;
+border:solid 10px;
+background-color:aqua;
+padding:50px 50px;
+margin:50px 50px;
 }
